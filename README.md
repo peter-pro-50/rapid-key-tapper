@@ -1,8 +1,5 @@
 # Rapid Key Tapper
 
-
-![Rapid Key Tapper](assets/screenshot.png)
-
 Experience seamless key tapping with Rapid Key Tapper, a lightweight Windows utility designed to auto-tap or auto-repeat any keyboard key effortlessly.
 
 ## Features
@@ -31,5 +28,3 @@ Experience seamless key tapping with Rapid Key Tapper, a lightweight Windows uti
 
 ## License
 - Distributed under the MIT License.
-
-More free Windows utilities: [Telegram — @windows_free_software](https://t.me/windows_free_software)
